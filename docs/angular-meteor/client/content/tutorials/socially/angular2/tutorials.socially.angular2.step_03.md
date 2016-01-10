@@ -213,7 +213,7 @@ Now, change `app.ts` to:
 
 Run your app again and manipulate the documents in the Mongo console.
 You will see that it works as before — it loads the same data as before and all changes to the `this.parties` that
-should happen reactively happen reactively. At the same time, this code looks much simpler than before.
+should happen reactively. At the same time, this code looks much simpler than before.
 
 Lets stick to this approach from now on.
 
